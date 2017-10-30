@@ -1,3 +1,37 @@
 body{
     padding-top: 70px;
+    background-image:url('../images/bg-index.png');
+   
+}
+#navright
+{
+  margin-left:650px;
+}
+#navleft
+{
+  margin-left:150px; 
+}
+h2
+{
+    margin-left: -15px;
+}
+.container div#login
+{
+    border: 1px solid #ccc!important;padding:14px;border-radius: 16px!important;
+    margin-left:60px;
+    margin-top: 40px;
+}
+.container div#buttonsize
+{
+    margin-left: 96px;
+}
+.container div#catimg img
+{
+    width: 172px;
+    height: 150px;
+}
+.container div#idimg img
+{
+    width: 242px;
+    height: 200px;
 }
