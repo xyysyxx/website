@@ -40,3 +40,11 @@ h2
     width: 242px;
     height: 200px;
 }
+#lb
+{
+    margin-left:300px;
+    margin-top:-55px;
+    background-color:hsl(201, 87%, 91%);
+    font-size: 12px;
+    
+}
